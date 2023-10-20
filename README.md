@@ -14,11 +14,12 @@
 
 - [GitHub Page](https://chad-cervantes.github.io/cpnt201-a3/)
 
-- [GitHub Repo](https://github.com/chad-cervantes/cpnt201-a3/tree/main)
+- [GitHub Repo - main branch](https://github.com/chad-cervantes/cpnt201-a3/tree/main)
 
 ### Attributions 
 
 - [FontAwesome](https://fontawesome.com/)
+ - Used FontAwesome for the social navigation icons
 
 - [Tailwind CSS](https://tailwindcss.com/)
 
